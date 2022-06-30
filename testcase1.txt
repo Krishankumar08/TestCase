@@ -1,0 +1,1 @@
+RDBMS is a program used to maintain a relational database.
